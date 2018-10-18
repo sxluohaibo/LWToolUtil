@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "LWToolUtil"
   s.version      = "1.0.0"
-  s.summary      = "ios 定位工具类"
+  s.summary      = "定位功能"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,7 +25,8 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-                   A longer desc
+                    一个自定义的想想想想想想想
+                   DESC
 
   s.homepage     = "https://github.com/sxluohaibo/LWToolUtil"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
@@ -52,9 +53,9 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "罗海波" => "email@address.com" }
+  s.author             = { "罗海波" => "sxluohaibo@163.com" }
   # Or just: s.author    = "罗海波"
-  # s.authors            = { "罗海波" => "email@address.com" }
+  # s.authors            = { "罗海波" => "sxluohaibo@163.com" }
   # s.social_media_url   = "http://twitter.com/罗海波"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
