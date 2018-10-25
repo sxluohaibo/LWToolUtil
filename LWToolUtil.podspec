@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
                     demo
                    DESC
 
-  s.homepage     = "http://EXAMPLE/LWToolUtil"
+  s.homepage     = "https://github.com/sxluohaibo/LWToolUtil.git"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -91,8 +91,8 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "Classes", "Classes/**/*.{h,m}"
-  s.exclude_files = "Classes/Exclude"
+  s.source_files  = "LWToolUtil", "LWToolUtil/*.{h,m}"
+  s.exclude_files = "LWToolUtil/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
 
